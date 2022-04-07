@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79c1e595.css",
+    "main.js": "/static/js/main.454bfe1e.js",
+    "static/media/Home Video.mp4": "/static/media/Home Video.346d6f2e13f3e7d2adc7.mp4",
+    "static/media/twpc-8.svg": "/static/media/twpc-8.ec0d7d59edd0dbefabad7ffa444b636e.svg",
+    "static/media/twpc-2.svg": "/static/media/twpc-2.923c0834ca24456af0ef9486720c7ea7.svg",
+    "static/media/twpc-7.svg": "/static/media/twpc-7.f79ea7bd1ab8b1c87656154a5d0d3d8a.svg",
+    "static/media/twpc-5.svg": "/static/media/twpc-5.7737961b37cee0f50281ebfdf1dbc22e.svg",
+    "static/media/twpc.svg": "/static/media/twpc.0a9aab07621c10309b0396db02320a85.svg",
+    "static/media/twpc-9.svg": "/static/media/twpc-9.d70fe25ca06031e55519fb6c5e59c946.svg",
+    "static/media/twpc-3.svg": "/static/media/twpc-3.d38f00542d1ca8c445753d7ed5204b57.svg",
+    "static/media/akaya-telivigala-all-400-normal.woff": "/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
+    "static/media/twpc-4.svg": "/static/media/twpc-4.e532b7920b2884be27d06f7a7d196842.svg",
+    "static/media/twpc-6.svg": "/static/media/twpc-6.53f42b8de0db63b638ba9e20c8099722.svg",
+    "static/media/twpc-1.svg": "/static/media/twpc-1.d5e2e180c4308ddab97dd5d1179535b9.svg",
+    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
+    "static/media/akaya-telivigala-latin-400-normal.woff2": "/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/sora-all-400-normal.woff": "/static/media/sora-all-400-normal.fc2a204a844d60c30272.woff",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
+    "static/media/sora-latin-400-normal.woff2": "/static/media/sora-latin-400-normal.5be02e543277b2b97d38.woff2",
+    "static/media/sora-latin-ext-400-normal.woff2": "/static/media/sora-latin-ext-400-normal.b6e3517b818e007ea289.woff2",
+    "static/media/Arrow.svg": "/static/media/Arrow.2aa046cef6c722596b055a335b4a9792.svg",
+    "index.html": "/index.html",
+    "main.79c1e595.css.map": "/static/css/main.79c1e595.css.map",
+    "main.454bfe1e.js.map": "/static/js/main.454bfe1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79c1e595.css",
+    "static/js/main.454bfe1e.js"
+  ]
+}
